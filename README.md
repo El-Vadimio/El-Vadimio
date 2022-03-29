@@ -5,12 +5,12 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning SQL, JS, HTML, CSS, JavaScript. 
 
-- 👯 I’m looking to collaborate on Qvantum inc - 
+- 👯 I’m work on Qvantum inc - 
 Quantum International Ltd. is a leading provider of state-of-the-art IT products for companies with high demands in the field of logistics and manufacturing.
 
 Quantum International is part of the international holding Quantum Software, which is listed on the Warsaw Stock Exchange and represents the product line of the Qguar brand.
 
-- 🤔 I’m looking for help with Oracle SQl index(s) and FrondEnd skilss an also finding job n IT.
+- 🤔 I’m looking for help with Oracle SQl index(s) and FrondEnd skilss.
 
 - 💬 Ask me: Sql base Syntax,Sql fynctions, HTML arhitect. 
 
